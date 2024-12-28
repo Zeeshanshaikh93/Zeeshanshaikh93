@@ -6,7 +6,7 @@
 <h3 align="center">Aspiring DevOps Engineer | Cloud Technology Enthusiast | Passionate About Cloud Technologies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zeeshanshaikh93&label=Profile%20views&color=1a9338&style=flat" alt="Zeeshanshaikh93" /> </p>
 
-- 💬 Ask me about **Python, AWS, DevOps, AZURE**
+- 💬 Ask me about **DevOps, Python, AWS, AZURE**
 
 - 📫 How to reach me **zmr.9841@gmail.com**
 
